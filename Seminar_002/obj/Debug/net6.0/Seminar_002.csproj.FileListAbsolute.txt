@@ -1,0 +1,15 @@
+D:\Учеба Программист\Знакомство с языком С шарп\Lesson2\Seminar_002\bin\Debug\net6.0\Seminar_002.exe
+D:\Учеба Программист\Знакомство с языком С шарп\Lesson2\Seminar_002\bin\Debug\net6.0\Seminar_002.deps.json
+D:\Учеба Программист\Знакомство с языком С шарп\Lesson2\Seminar_002\bin\Debug\net6.0\Seminar_002.runtimeconfig.json
+D:\Учеба Программист\Знакомство с языком С шарп\Lesson2\Seminar_002\bin\Debug\net6.0\Seminar_002.dll
+D:\Учеба Программист\Знакомство с языком С шарп\Lesson2\Seminar_002\bin\Debug\net6.0\Seminar_002.pdb
+D:\Учеба Программист\Знакомство с языком С шарп\Lesson2\Seminar_002\obj\Debug\net6.0\Seminar_002.csproj.AssemblyReference.cache
+D:\Учеба Программист\Знакомство с языком С шарп\Lesson2\Seminar_002\obj\Debug\net6.0\Seminar_002.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба Программист\Знакомство с языком С шарп\Lesson2\Seminar_002\obj\Debug\net6.0\Seminar_002.AssemblyInfoInputs.cache
+D:\Учеба Программист\Знакомство с языком С шарп\Lesson2\Seminar_002\obj\Debug\net6.0\Seminar_002.AssemblyInfo.cs
+D:\Учеба Программист\Знакомство с языком С шарп\Lesson2\Seminar_002\obj\Debug\net6.0\Seminar_002.csproj.CoreCompileInputs.cache
+D:\Учеба Программист\Знакомство с языком С шарп\Lesson2\Seminar_002\obj\Debug\net6.0\Seminar_002.dll
+D:\Учеба Программист\Знакомство с языком С шарп\Lesson2\Seminar_002\obj\Debug\net6.0\refint\Seminar_002.dll
+D:\Учеба Программист\Знакомство с языком С шарп\Lesson2\Seminar_002\obj\Debug\net6.0\Seminar_002.pdb
+D:\Учеба Программист\Знакомство с языком С шарп\Lesson2\Seminar_002\obj\Debug\net6.0\Seminar_002.genruntimeconfig.cache
+D:\Учеба Программист\Знакомство с языком С шарп\Lesson2\Seminar_002\obj\Debug\net6.0\ref\Seminar_002.dll
