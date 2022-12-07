@@ -6,7 +6,7 @@ void PrintArray(int[] array)
         Console.Write($"{array[i]}");
     Console.WriteLine();
 }
-// void SelectionSort(int[] array)
+// void SelectionSort(int[] array) //сортировка массива по возрастанию
 // {
 //     for (int i = 0; i < array.Length - 1; i++)
 //     {
@@ -21,19 +21,19 @@ void PrintArray(int[] array)
 //         array[minPosition] = temporary;
 //     }
 // }
-void SelectionSort(int[] array)
+void SelectionSort(int[] array) //сортировка массива по убыванию
 {
     for (int i = 0; i < array.Length - 1; i++)
     {
-        int minPosition = i;
+        int maxPosition = i;
         for (int j = i + 1; j < array.Length; j++)
         {
-            if (array[j] < array[minPosition])
-                minPosition = j;
+            if (array[j] > array[maxPosition])
+                maxPosition = j;
         }
         int temporary = array[i];
-        array[i] = array[minPosition];
-        array[minPosition] = temporary;
+        array[i] = array[maxPosition];
+        array[maxPosition] = temporary;
     }
 }
 PrintArray(arr);
