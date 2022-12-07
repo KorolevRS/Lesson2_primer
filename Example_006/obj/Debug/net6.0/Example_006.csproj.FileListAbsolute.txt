@@ -1,0 +1,15 @@
+D:\Учеба Программист\Знакомство с языком С шарп\Lesson2\Example_006\obj\Debug\net6.0\Example_006.csproj.AssemblyReference.cache
+D:\Учеба Программист\Знакомство с языком С шарп\Lesson2\Example_006\obj\Debug\net6.0\Example_006.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба Программист\Знакомство с языком С шарп\Lesson2\Example_006\obj\Debug\net6.0\Example_006.AssemblyInfoInputs.cache
+D:\Учеба Программист\Знакомство с языком С шарп\Lesson2\Example_006\obj\Debug\net6.0\Example_006.AssemblyInfo.cs
+D:\Учеба Программист\Знакомство с языком С шарп\Lesson2\Example_006\obj\Debug\net6.0\Example_006.csproj.CoreCompileInputs.cache
+D:\Учеба Программист\Знакомство с языком С шарп\Lesson2\Example_006\bin\Debug\net6.0\Example_006.exe
+D:\Учеба Программист\Знакомство с языком С шарп\Lesson2\Example_006\bin\Debug\net6.0\Example_006.deps.json
+D:\Учеба Программист\Знакомство с языком С шарп\Lesson2\Example_006\bin\Debug\net6.0\Example_006.runtimeconfig.json
+D:\Учеба Программист\Знакомство с языком С шарп\Lesson2\Example_006\bin\Debug\net6.0\Example_006.dll
+D:\Учеба Программист\Знакомство с языком С шарп\Lesson2\Example_006\bin\Debug\net6.0\Example_006.pdb
+D:\Учеба Программист\Знакомство с языком С шарп\Lesson2\Example_006\obj\Debug\net6.0\Example_006.dll
+D:\Учеба Программист\Знакомство с языком С шарп\Lesson2\Example_006\obj\Debug\net6.0\refint\Example_006.dll
+D:\Учеба Программист\Знакомство с языком С шарп\Lesson2\Example_006\obj\Debug\net6.0\Example_006.pdb
+D:\Учеба Программист\Знакомство с языком С шарп\Lesson2\Example_006\obj\Debug\net6.0\Example_006.genruntimeconfig.cache
+D:\Учеба Программист\Знакомство с языком С шарп\Lesson2\Example_006\obj\Debug\net6.0\ref\Example_006.dll
